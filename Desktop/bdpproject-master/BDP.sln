@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDP.Bot", "BDP\BDP.Bot.csproj", "{B779495A-130E-46D5-A88C-16FCF329D852}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDP.Model", "BDP.Model\BDP.Model.csproj", "{9EB640E4-7BD5-4D28-A86E-9BF329A345B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDP.DataAccess", "BDP.DataAccess\BDP.DataAccess.csproj", "{8B8C1B8E-49F9-4F56-945B-8069B350F4D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B779495A-130E-46D5-A88C-16FCF329D852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B779495A-130E-46D5-A88C-16FCF329D852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B779495A-130E-46D5-A88C-16FCF329D852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B779495A-130E-46D5-A88C-16FCF329D852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EB640E4-7BD5-4D28-A86E-9BF329A345B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EB640E4-7BD5-4D28-A86E-9BF329A345B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EB640E4-7BD5-4D28-A86E-9BF329A345B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EB640E4-7BD5-4D28-A86E-9BF329A345B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B8C1B8E-49F9-4F56-945B-8069B350F4D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B8C1B8E-49F9-4F56-945B-8069B350F4D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B8C1B8E-49F9-4F56-945B-8069B350F4D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B8C1B8E-49F9-4F56-945B-8069B350F4D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
